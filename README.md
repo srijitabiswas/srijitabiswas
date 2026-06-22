@@ -6,18 +6,6 @@ My interests lie at the intersection of **AI-powered applications, full-stack de
 
 ---
 
-## 🚀 About Me
-
-* 🎓 B.Tech in Computer Science & Engineering
-* 💻 Building full-stack applications using the MERN stack
-* 🤖 Exploring AI/ML, recommendation systems, and intelligent automation
-* 🎨 Interested in UI/UX design and product strategy
-* 🌱 Currently learning advanced AI integration and scalable system design
-* 🏆 National Finalist (Rank 16) – National Cloud Innovation Challenge 2026
-* 🎯 Goal: Build impactful technology that improves everyday experiences
-
----
-
 ## 🛠️ Tech Stack
 
 ### Languages
