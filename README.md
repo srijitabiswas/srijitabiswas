@@ -45,7 +45,6 @@ My interests lie at the intersection of **AI-powered applications, full-stack de
 # 🏅 Achievements
 
 * 🥇 National Cloud Innovation Challenge 2026 – National Finalist (Rank 16)
-* 🏆 Multiple hackathon projects spanning AI, healthcare, cybersecurity, education, and productivity
 
 ---
 
