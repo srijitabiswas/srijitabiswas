@@ -33,7 +33,6 @@ My interests lie at the intersection of **AI-powered applications, full-stack de
 # 🌟 Featured Projects
 
 * 🏥 MediFlow – AI-powered hospital queue & appointment optimization platform
-* 👥 TeamForge – Student collaboration and AI team-matching system
 * 🍽️ Savor – Decision-first food ordering app with AI recommendations
 * 🌸 Glow-AI – AI beauty analysis and salon discovery platform
 * 📚 DeskGuard – Smart university library seat management system
