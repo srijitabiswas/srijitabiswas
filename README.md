@@ -40,17 +40,6 @@ My interests lie at the intersection of **AI-powered applications, full-stack de
 
 ---
 
-# 📈 Current Focus
-
-* Artificial Intelligence & Machine Learning
-* Full-Stack MERN Development
-* Product Design & UX
-* Recommendation Systems
-* Intelligent Decision Support Platforms
-* Scalable Web Applications
-
----
-
 # 🌍 Languages
 
 * English
