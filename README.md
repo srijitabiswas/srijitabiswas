@@ -74,8 +74,10 @@ My interests lie at the intersection of AI-powered applications, full-stack deve
 
 <!-- Replace YOUR-GITHUB-USERNAME below with your actual GitHub username to activate these -->
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=default&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=srijitabiswas
+&show_icons=true&theme=default&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srijitabiswas
+&layout=compact&hide_border=true" />
 </p>
 
 <br>
