@@ -1,10 +1,8 @@
 <div align="center">
 
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Star-Struck.png" alt="Star-Struck" width="35" height="35" /> Hello, I'm Srijita Biswas
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=2500&pause=1000&color=7AA2F7&center=true&vCenter=true&width=800&lines=Frontend+Software+Engineer;UI%2FUX+Designer+%26+Product+Thinker;Data+Analytics+%26+AI+Enthusiast;Building+Intelligent+Web+Platforms" alt="Typing SVG" />
-</a>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Srijita+Biswas+👋;AI+%26+Full-Stack+Engineer;Data+Analyst+%26+UI/UX+Designer;Hackathon+Finalist+%26+Product+Thinker" alt="Typing SVG" />
+</h1>
 
 <br/>
 
@@ -30,13 +28,14 @@
 
 ---
 
-### 🚀 About Me
+## 🚀 About Me
 
-- 🎓 **Education:** Pursuing a Bachelor of Technology in Computer Science Engineering at Sister Nivedita University in Kolkata, India (Aug 2023 - Jul 2027).
-- 💡 **Engineering Mindset:** I specialize in translating user research into production-ready React and Tailwind CSS interfaces.
-- 🎯 **Goals:** Delivering high-fidelity designs for AI marketplaces and multi-user web applications, while improving usability metrics across shipped products.
-- 🗣️ **Languages:** Fluent in English, Bengali, Hindi, and French.
+🎓 **B.Tech in Computer Science Engineering** at Sister Nivedita University (2023–2027)  
+💡 Passionate about **AI-powered applications**, **full-stack engineering**, and **intuitive product design**  
+🏆 National Finalist (Rank 16) in **National Cloud Innovation Challenge** among 1,500+ participants  
+🌍 Languages: English • Bengali • Hindi • French  
 
+> *"Engineering is not just about code, it’s about crafting intelligent experiences that empower people."*
 ---
 
 ### ⚡ Engineering Stack
@@ -77,7 +76,7 @@
 
 ---
 
-### 🏗️ Engineering Experience
+### 🏗️ Work Experience
 
 **Product Design Trainee | Employability.life** *(Dec 2025 - Jan 2026)*
 * Analyzed 235 user interaction sessions to identify usability bottlenecks, extracting actionable insights to guide product strategy.
@@ -92,11 +91,10 @@
 | 🚀 Project | 🛠️ Tech Stack | 🧠 Engineering Highlights |
 | :--- | :--- | :--- |
 | **Venture**<br/>*(AI Team Formation)* | `React` `Vite` `Tailwind CSS` | Engineered a compatibility-matching app resolving cross-device layout inconsistencies. Structured 10+ modular workflows (TeamDNA, SkillCircle) and integrated scroll animations using GSAP and Framer Motion, increasing engagement by 35%. |
-| **MediFlow**<br/>*(AI Queue Management)* | `Socket.io` `Dashboards` | Architected a hospital appointment solution equipping 100+ professionals with centralized scheduling. Deployed live queue updates and a Smart Decision Assistant, dropping scheduling bottlenecks by 20%. |
 | **Savor**<br/>*(Food Discovery Engine)* | `React` `Tailwind CSS` `MySQL` `Figma` | Structured a MySQL database to organize 6,700 nutritional data points, decreasing decision latency by 54%. Prototyped a dual-slider budget filter to minimize user choice fatigue. Engineered 25+ reusable UI components. |
 | **Glow-AI**<br/>*(Beauty Salon Marketplace)* | `React` `Computer Vision` `Figma` | Engineered an AI-powered platform with facial analysis and personalized style pipelines. Devised matching algorithms that elevated user engagement metrics by 30%. Constructed a mobile-first interface reducing page load time by 25%. |
 | **ZeroShield**<br/>*(Threat-Intelligence Dashboard)* | `React` `Frontend` | Constructed reusable frontend architecture minimizing deployment overhead by 29%. Delivered 15+ WCAG-compliant components and established a design token system in Figma, cutting layout iteration time by 50%. |
-| **Wellness Personas of SNU**<br/>*(Data Analytics)* | `Python` `Scikit-learn` `Pandas` `Streamlit` | Performed K-Means clustering on 3,450 behavioral records to identify 10 wellness personas. Created an interactive Streamlit dashboard with 12+ charts, reducing analysis time by 22%. |
+| **LuxeStay Villas**<br/>*(XPMC Xpro Program)* | `Figma` `UX Research` `Prototyping` | Documented the complete product lifecycle from research to final handoff. Led user research, UX flows, and stakeholder alignment across 6 sprints. Delivered interactive prototypes for dual-user (owner & guest) journeys, conducted usability testing, and managed team coordination, simulating real-world product execution. |
 
 ---
 
@@ -109,34 +107,6 @@
 * **Google Cloud:** Introduction to Generative AI (2025).
 * **UC Boulder:** Algorithms for Searching, Sorting, and Indexing (2025).
 * **Edureka:** Machine Learning and NLP Basics.
-
----
-
-### 📈 GitHub Metrics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=srijitabiswas&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=srijitabiswas&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srijitabiswas&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</div>
-
-<br/>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/srijitabiswas/srijitabiswas/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/srijitabiswas/srijitabiswas/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/srijitabiswas/srijitabiswas/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
-
----
-
-### 🌱 Currently Exploring
-* **AI Agents & LLM Engineering:** Deepening knowledge following my Google Cloud Generative AI certification.
-* **System Design & Cloud Native:** Building highly scalable architectures.
-* **Data Science Pipelines:** Expanding on my K-Means and NLP classification foundations.
 
 ---
 
