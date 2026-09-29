@@ -110,7 +110,7 @@ Worked with React, TypeScript, Vite, Tailwind CSS, GSAP, Framer Motion, Node.js,
 * Architected a dual-user checkout flow for LuxeStay, scaling user interaction and repeat usage by 25%.
 * Led user discovery through stakeholder interviews and lifecycle mapping, converting 15+ user profiles into 6 production-ready screens.
 * Crafted high-fidelity UI mockups from usability insights, improving navigation efficiency by 47%.
-* 
+
 ---
 
 ### 💼 Featured Projects
