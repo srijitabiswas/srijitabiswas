@@ -81,12 +81,36 @@
 
 ### 🏗️ Work Experience
 
+**Frontend Developer | NexLevr** *(Sep 2026 - Present)*
+* Built NEXUS, a frontend productivity dashboard for task and project management with live statistics, analytics, and persistent user data.
+* Developed the application using React 19, Vite, Tailwind CSS, React Router, Framer Motion, Recharts, and Lucide React.
+* Implemented centralized state management using Context API and useReducer, with reusable custom hooks for tasks, projects, themes, local storage, and debounced search.
+* Built responsive dashboard experiences including task CRUD, filtering, sorting, project progress tracking, analytics, themes, notifications, and mobile navigation.
+
+**Frontend Developer | Yuva Intern by Henry Harvin** *(Sep 2026 - Present)*
+* Developed JanSetu, a unified e-governance portal concept for discovering government services, submitting applications, tracking status, managing documents, and filing grievances.
+* Designed and implemented the project across a 4-week development cycle, covering requirements analysis, UI/UX design, frontend development, and QA testing.
+* Built responsive interfaces using HTML5, CSS3, and Vanilla JavaScript, including multi-step application workflows, validation, document handling, and application tracking.
+* Implemented accessibility and quality checks using Playwright, axe-core, ESLint, html-validate, Stylelint, and Lighthouse, with support for multilingual and mobile-first experiences.
+
+**Web Developer | Pinnacle Labs** *(Aug 2026 - Sep 2026)*
+* Developed EMBER, a responsive restaurant website featuring menu browsing, signature dishes, online ordering, table reservations, gallery, testimonials, and contact information.
+* Built Numeral, a responsive calculator with Basic and Scientific modes, custom mathematical expression parsing, calculation history, keyboard support, and light/dark themes.
+* Developed Bloom, a productivity and wellness application combining task management, habit tracking, mood tracking, gamification, and a virtual garden.
+Worked with React, TypeScript, Vite, Tailwind CSS, GSAP, Framer Motion, Node.js, Express.js, and MongoDB across different projects.
+
+**User Interface Designer | CodeAlpha** *(Aug 2026 - Sep 2026)*
+* Designed and developed NOIRÉ, a premium fashion e-commerce website concept focused on refined visual design and streamlined shopping experiences.
+* Progressively developed the project across 5 weeks, moving from static wireframe implementation to responsive design, interactive UI, accessibility and performance optimization, and a client-side SPA.
+* Built reusable frontend interfaces using HTML, CSS, and JavaScript, including product browsing, navigation, responsive layouts, and interactive components.
+* Created a structured design system and high-fidelity prototype to maintain visual consistency across the complete fashion shopping experience.
+
 **Product Design Trainee | Employability.life** *(Dec 2025 - Jan 2026)*
 * Analyzed 235 user interaction sessions to identify usability bottlenecks, extracting actionable insights to guide product strategy.
 * Architected a dual-user checkout flow for LuxeStay, scaling user interaction and repeat usage by 25%.
 * Led user discovery through stakeholder interviews and lifecycle mapping, converting 15+ user profiles into 6 production-ready screens.
 * Crafted high-fidelity UI mockups from usability insights, improving navigation efficiency by 47%.
-
+* 
 ---
 
 ### 💼 Featured Projects
