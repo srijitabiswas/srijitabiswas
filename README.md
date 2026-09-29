@@ -100,10 +100,10 @@
 Worked with React, TypeScript, Vite, Tailwind CSS, GSAP, Framer Motion, Node.js, Express.js, and MongoDB across different projects.
 
 **User Interface Designer | CodeAlpha** *(Aug 2026 - Sep 2026)*
-* Designed and developed NOIRÉ, a premium fashion e-commerce website concept focused on refined visual design and streamlined shopping experiences.
-* Progressively developed the project across 5 weeks, moving from static wireframe implementation to responsive design, interactive UI, accessibility and performance optimization, and a client-side SPA.
-* Built reusable frontend interfaces using HTML, CSS, and JavaScript, including product browsing, navigation, responsive layouts, and interactive components.
-* Created a structured design system and high-fidelity prototype to maintain visual consistency across the complete fashion shopping experience.
+* Designed NOIRÉ, a premium fashion e-commerce website concept in Figma, focusing on navigation, product discovery, shopping flows, and post-purchase experiences.
+* Conducted comparative UX research across 8 fashion and beauty e-commerce platforms to identify recurring usability, navigation, and trust-related issues.
+* Translated research findings into information architecture and interaction design decisions, including visible navigation, filtering and sorting, product-page structure, and order-status/returns flows.
+* Created high-fidelity UI designs and interactive prototypes in Figma, developing the NOIRÉ experience from wireframes through polished e-commerce screens.
 
 **Product Design Trainee | Employability.life** *(Dec 2025 - Jan 2026)*
 * Analyzed 235 user interaction sessions to identify usability bottlenecks, extracting actionable insights to guide product strategy.
